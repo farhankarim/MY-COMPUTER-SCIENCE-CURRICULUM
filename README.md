@@ -9,8 +9,8 @@
 - [Curriculum](#curriculum)
   - [Prerequisites](#prerequisites)
   - [Semester 1](#semester-1)
-  - [Semester 2](#)
-  - [Semester 3](#)
+  - [Semester 2](#semester-2)
+  - [Semester 3](#semester-3)
   - [Semester 4](#)
   - [Semester 5](#)
   - [Semester 6](#)
@@ -69,3 +69,31 @@ The BS Computer Science program provides understanding of the fundamental and ad
   5. **English Language**
       - [Elementary English | Virtual University](https://www.youtube.com/playlist?list=PLKyB9RYzaFRjTPgVJzCrVC_izgiVR3SvV)
       
+### Semester 2
+   
+  1. **Object Oriented Programming**
+
+     - For Python
+           -[Object-oriented Programming in Python: Create Your Own Adventure Game | Futurelearn](https://www.futurelearn.com/courses/object-oriented-principles)
+      - For Java
+           -[Object Oriented Programming | IIT Bombay](https://www.edx.org/course/object-oriented-programming?source=aw&awc=6798_1528996031_2993aacc057471e67e43845b7592a243&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2FP) & [Object Oriented Programming | UC San Diego](https://www.coursera.org/learn/object-oriented-java?siteID=SAyYsTvLiGQ-ZmE2wVgxLPh1hnNeM._Nzg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+  
+  2. **Basic Electronics**
+
+     - [Basic Electronics Videos | NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
+            - [Basic Electronics Course Outline | NPTEL](https://onlinecourses.nptel.ac.in/noc18_ee10/preview)
+
+     - [Circuit Theory | VU](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
+            - [Circuit Theory Course Outline | VU](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
+ 
+ 3. **Calculus II**
+
+
+### Semester 3
+  1. **Data Structure and Algorithms**
+
+     - For C++, Java, and Python
+           -[Data Structures Fundamentals | UC San Diego](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
+      - For C++
+           -[Data Structures | Mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+   

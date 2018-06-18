@@ -110,8 +110,8 @@ The BS Computer Science program provides understanding of the fundamental and ad
 **Pakistan Studies**
 2. Pakistan Studies | VU
 
-   - [Circuit Theory | Lectures](https://www.youtube.com/watch?v=dCruT4g-1xw&list=PL728DC4B0EDBC8E04)
-   - [Circuit Theory | Course Outline](http://ocw.vu.edu.pk/CourseDetails.aspx?cat=humanities+distribution&course=pak301)
+   - [Pakistan Studies | Lectures](https://www.youtube.com/watch?v=dCruT4g-1xw&list=PL728DC4B0EDBC8E04)
+   - [Pakistan Studies | Course Outline](http://ocw.vu.edu.pk/CourseDetails.aspx?cat=humanities+distribution&course=pak301)
 
 
 ### Semester 3

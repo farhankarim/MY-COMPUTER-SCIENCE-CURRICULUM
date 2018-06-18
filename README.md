@@ -94,22 +94,43 @@ The BS Computer Science program provides understanding of the fundamental and ad
 
 1. Basic Electronics | NPTEL
 
-   - [Basic Electronics | Lectures](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
-   - [Basic Electronics | Course Outline](https://onlinecourses.nptel.ac.in/noc18_ee10/preview)
+   - [Basic Electronics | Lectures](https://onlinecourses.nptel.ac.in/noc18_ee10/preview)
+   - [Basic Electronics | Course Outline](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
 
 2. Circuit Theory | VU
 
-   - [Circuit Theory | Lectures](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
+   - [Circuit Theory | Lectures](https://www.youtube.com/playlist?list=PL72FC7D3035D64E75)
    - [Circuit Theory | Course Outline](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
- 
-**Calculus II**
+
+**Discreate Mathematics**
+
+- [Discrete Math | TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+- [Discreate Math | IP University CSE/IT](https://www.youtube.com/watch?v=v3sN2bHnbk0&t=0s&list=PLG9aCp4uE-s0vnFDwrmKRBxxkSzuUv6TF&index=6)
+
+**Pakistan Studies**
+2. Pakistan Studies | VU
+
+   - [Circuit Theory | Lectures](https://www.youtube.com/watch?v=dCruT4g-1xw&list=PL728DC4B0EDBC8E04)
+   - [Circuit Theory | Course Outline](http://ocw.vu.edu.pk/CourseDetails.aspx?cat=humanities+distribution&course=pak301)
 
 
 ### Semester 3
-  1. **Data Structure and Algorithms**
 
-     - For C++, Java, and Python
-           -[Data Structures Fundamentals | UC San Diego](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
-      - For C++
-           -[Data Structures | Mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-   
+**Multivariable Calculus**
+
+- [Multivariable Calculus | KhanAcademy](https://www.khanacademy.org/math/multivariable-calculus)
+- [Multivariable Calculus | PatrickJMT](https://www.youtube.com/playlist?list=PLF83D74BA4DE75897)
+- [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
+
+**Data Structure and Algorithms**
+
+1. For C++, Java, and Python
+
+   - [Data Structures Fundamentals | UC San Diego](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
+
+2. For C++
+   - [Data Structures | Mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+ 
+3. For Python
+   - [Python Data Structures](https://www.coursera.org/learn/python-data)
+   - [Python Data Structures and BST](https://www.youtube.com/playlist?list=PLEJyjB1oGzx3iTZvOVedkT8nZ2cG105U7)

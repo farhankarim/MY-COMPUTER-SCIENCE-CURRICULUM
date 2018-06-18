@@ -42,51 +42,67 @@ The BS Computer Science program provides understanding of the fundamental and ad
   - Should have minimum of 4GB ram, 80GB free space, 1.6 GHz or faster processor(dual-core)
 
 ### Semester 1
-  1. **Introduction To Computing**
-  
-      - [Internet 101 | Khanacademy](https://www.khanacademy.org/computing/computer-science/internet-intro).
-      - [How Computer Work | Khanacademy](https://www.khanacademy.org/computing/computer-science/how-computers-work2).
-      - [CS101 | Stanford](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about).
 
-  2. **Introduction To Programming**
+**Introduction To Computing**
+  
+   - [Internet 101 | Khanacademy](https://www.khanacademy.org/computing/computer-science/internet-intro).
+   - [How Computer Work | Khanacademy](https://www.khanacademy.org/computing/computer-science/how-computers-work2).
+   - [CS101 | Stanford](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about).
 
-     - For Python
-           -[Introduction to Computer Science | MITx](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
-      - For C programming
-           -[Programming Basics | IIT](https://www.edx.org/course/programming-basics?source=aw&awc=6798_1528906423_b242accde268c243ea5321a6de79f08c)
-      - For All Programming Languages
-           -[HarvardX CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/ )
+**Introduction To Programming**
+
+1. For Python
+
+     - [Introduction to Computer Science | MITx](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
   
-  3. **Applied Physics**
-      - [Introduction to Physics | Udacity](https://www.udacity.com/course/intro-to-physics--ph100)
-      - [Classical Mechanics | MIT](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/index.htm)
+2. For C programming
+
+      - [Programming Basics | IIT](https://www.edx.org/course/programming-basics?source=aw&awc=6798_1528906423_b242accde268c243ea5321a6de79f08c)
   
-  4. **Calculus I**
-      - [Essence of calculus | 3Blue1Brown Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-      - [Calculus 1 | PatrickJMT Youtube](https://www.youtube.com/playlist?list=PL58C7BA6C14FD8F48)
-      - [Single Variable Calculus | MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+3. For All Programming Languages
+   
+      - [HarvardX CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/ )
   
-  5. **English Language**
-      - [Elementary English | Virtual University](https://www.youtube.com/playlist?list=PLKyB9RYzaFRjTPgVJzCrVC_izgiVR3SvV)
+**Applied Physics**
+
+- [Introduction to Physics | Udacity](https://www.udacity.com/course/intro-to-physics--ph100)
+- [Classical Mechanics | MIT](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/index.htm)
+
+**Calculus I**
+  - [Essence of calculus | 3Blue1Brown Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  - [Calculus 1 | PatrickJMT Youtube](https://www.youtube.com/playlist?list=PL58C7BA6C14FD8F48)
+  - [Single Variable Calculus | MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+  
+**English Language**
+  - [Elementary English | Virtual University](https://www.youtube.com/playlist?list=PLKyB9RYzaFRjTPgVJzCrVC_izgiVR3SvV)
       
 ### Semester 2
    
-  1. **Object Oriented Programming**
+**Object Oriented Programming**
 
-     - For Python
-           -[Object-oriented Programming in Python: Create Your Own Adventure Game | Futurelearn](https://www.futurelearn.com/courses/object-oriented-principles)
-      - For Java
-           -[Object Oriented Programming | IIT Bombay](https://www.edx.org/course/object-oriented-programming?source=aw&awc=6798_1528996031_2993aacc057471e67e43845b7592a243&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2FP) & [Object Oriented Programming | UC San Diego](https://www.coursera.org/learn/object-oriented-java?siteID=SAyYsTvLiGQ-ZmE2wVgxLPh1hnNeM._Nzg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+1. For Python
+
+    - [Object-oriented Programming in Python: Create Your Own Adventure Game | Futurelearn](https://www.futurelearn.com/courses/object-oriented-principles)
   
-  2. **Basic Electronics**
+2. For Java
+  
+    - [Object Oriented Programming | IIT Bombay](https://www.edx.org/course/object-oriented-programming?source=aw&awc=6798_1528996031_2993aacc057471e67e43845b7592a243&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2FP)
+  
+    - [Object Oriented Programming | UC San Diego](https://www.coursera.org/learn/object-oriented-java?siteID=SAyYsTvLiGQ-ZmE2wVgxLPh1hnNeM._Nzg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+  
+**Basic Electronics**
 
-     - [Basic Electronics Videos | NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
-            - [Basic Electronics Course Outline | NPTEL](https://onlinecourses.nptel.ac.in/noc18_ee10/preview)
+1. Basic Electronics | NPTEL
 
-     - [Circuit Theory | VU](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
-            - [Circuit Theory Course Outline | VU](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
+   - [Basic Electronics | Lectures](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
+   - [Basic Electronics | Course Outline](https://onlinecourses.nptel.ac.in/noc18_ee10/preview)
+
+2. Circuit Theory | VU
+
+   - [Circuit Theory | Lectures](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
+   - [Circuit Theory | Course Outline](http://ocw.vu.edu.pk/CourseOverview.aspx?cat=Physics&course=PHY301)
  
- 3. **Calculus II**
+**Calculus II**
 
 
 ### Semester 3

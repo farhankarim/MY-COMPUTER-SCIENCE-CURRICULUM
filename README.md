@@ -29,7 +29,7 @@ Hello World,
 
 The Open Bachelors in Computer Science curriculum is a compilation of all the courses a standard computer science bachelor's program offers in Karachi. All the courses added in this repo are completely free of cost(till now). Some may require an outlook account to access the paid content/tools for free or for a limited time (2-4 months).This list also includes non-cs courses too i.e pakistan studies,communication skills,Islamic Studies etc.
 
-The main reason behind creating this repository is to provide an extra option for students who are not satisfied with their university's course content, course is not offered in their university or for students who are just looking for a different source to clarify their concepts.All the courses added below have high ratings from websites like class-central,reviews.com,mooc-list etc.These courses were compiled my me alone during my 4 year bachelors which has now come to an end ,due to which i have decided to upload all the free content that has helped me survive these 4 years at github.There are no restrictions,you can take the entire courses or only the topics you require.
+The main reason behind creating this repository is to provide an extra option for students who are not satisfied with their university's course content, course is not offered in their university or for students who are just looking for a different source to clarify their concepts.All the courses added below have high ratings from websites like class-central,reviews.com,mooc-list etc.These courses were compiled my me alone during my 4 year bachelors which has now come to an end ,due to which i have decided to upload all the free content that has helped me survive these 4 years; at github.There are no restrictions,you can take the entire courses or only the topics you require.Some of the courses given below may appear in different semesters but the content will mostly be the same.
 
 ### Curriculum
 
@@ -108,12 +108,21 @@ The BS Computer Science program provides understanding of the fundamental and ad
 - [Discreate Math | IP University CSE/IT](https://www.youtube.com/watch?v=v3sN2bHnbk0&t=0s&list=PLG9aCp4uE-s0vnFDwrmKRBxxkSzuUv6TF&index=6)
 
 **Pakistan Studies**
-2. Pakistan Studies | VU
 
    - [Pakistan Studies | Lectures](https://www.youtube.com/watch?v=dCruT4g-1xw&list=PL728DC4B0EDBC8E04)
    - [Pakistan Studies | Course Outline](http://ocw.vu.edu.pk/CourseDetails.aspx?cat=humanities+distribution&course=pak301)
+   
+**Probability and Statistics**
 
+   - [Statistics and probability | Khanacademy](https://www.khanacademy.org/math/statistics-probability)
+   - [Probability - The Science of Uncertainty and Data | MIT](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+   - [PROBABILITY & STATISTICS 1 | Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV)
+   - [PROBABILITY & STATISTICS 2 | Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXkFVwtkb1cKKJXHEn7Sxld)
 
+**Communication Skills**
+   - [Business English Communication Skills | University of Washington IELP](https://www.youtube.com/playlist?list=PLxbzwyOnbv4fl5u6GJ97TqJfDsU0hfXq4)
+   - [Communication Techniques | Stanford Graduate School of Business](https://www.youtube.com/watch?v=HAnw168huqA)
+   
 ### Semester 3
 
 **Multivariable Calculus**

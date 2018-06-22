@@ -112,12 +112,6 @@ The BS Computer Science program provides understanding of the fundamental and ad
    - [Pakistan Studies | Lectures](https://www.youtube.com/watch?v=dCruT4g-1xw&list=PL728DC4B0EDBC8E04)
    - [Pakistan Studies | Course Outline](http://ocw.vu.edu.pk/CourseDetails.aspx?cat=humanities+distribution&course=pak301)
    
-**Probability and Statistics**
-
-   - [Statistics and probability | Khanacademy](https://www.khanacademy.org/math/statistics-probability)
-   - [Probability - The Science of Uncertainty and Data | MIT](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
-   - [PROBABILITY & STATISTICS 1 | Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV)
-   - [PROBABILITY & STATISTICS 2 | Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXkFVwtkb1cKKJXHEn7Sxld)
 
 **Communication Skills**
    - [Business English Communication Skills | University of Washington IELP](https://www.youtube.com/playlist?list=PLxbzwyOnbv4fl5u6GJ97TqJfDsU0hfXq4)
@@ -131,6 +125,13 @@ The BS Computer Science program provides understanding of the fundamental and ad
 - [Multivariable Calculus | PatrickJMT](https://www.youtube.com/playlist?list=PLF83D74BA4DE75897)
 - [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
 
+**Probability and Statistics**
+
+   - [Statistics and probability | Khanacademy](https://www.khanacademy.org/math/statistics-probability)
+   - [Probability - The Science of Uncertainty and Data | MIT](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+   - [PROBABILITY & STATISTICS 1 | Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV)
+   - [PROBABILITY & STATISTICS 2 | Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXkFVwtkb1cKKJXHEn7Sxld)
+
 **Data Structure and Algorithms**
 
 1. For C++, Java, and Python
@@ -141,5 +142,18 @@ The BS Computer Science program provides understanding of the fundamental and ad
    - [Data Structures | Mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
  
 3. For Python
-   - [Python Data Structures](https://www.coursera.org/learn/python-data)
-   - [Python Data Structures and BST](https://www.youtube.com/playlist?list=PLEJyjB1oGzx3iTZvOVedkT8nZ2cG105U7)
+   - [Python Data Structures | University of Michigan](https://www.coursera.org/learn/python-data)
+   - [Python Data Structures and BST | Brian Faure](https://www.youtube.com/playlist?list=PLEJyjB1oGzx3iTZvOVedkT8nZ2cG105U7)
+   
+4. For Java
+   - [Algorithms I | Princeton University](https://www.coursera.org/learn/algorithms-part1)
+   
+**Computer Organization and Assembly Language**
+
+- [Computer Architecture | Princeton University](https://www.coursera.org/learn/comparch)
+- [High Performance Computer Architecture | Georgia Institute of Technology](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
+
+**Professional Practices**
+
+- [Professional Practices | CIIT Virtual Campus](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
+

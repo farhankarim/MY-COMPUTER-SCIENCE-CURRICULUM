@@ -11,7 +11,7 @@
   - [Semester 1](#semester-1)
   - [Semester 2](#semester-2)
   - [Semester 3](#semester-3)
-  - [Semester 4](#)
+  - [Semester 4](#semester-4)
   - [Semester 5](#)
   - [Semester 6](#)
   - [Semester 7](#)
@@ -157,3 +157,20 @@ The BS Computer Science program provides understanding of the fundamental and ad
 
 - [Professional Practices | CIIT Virtual Campus](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
 
+### Semester 4
+
+**Database Systems**
+
+- [Databases | Stanford Online Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [Database Management Essentials | University of Colorado System](https://www.coursera.org/learn/database-management)
+
+**Differential Equations**
+
+- [Differential Equations | Khanacademy](https://www.khanacademy.org/math/differential-equations)
+- [Differential Equations | PatrickJMT](https://www.youtube.com/playlist?list=PLD4B0062CA82D73FB)
+- [Ordinary Differential Equation in Hindi | Bhagwan Singh Vishwakarma](https://www.youtube.com/playlist?list=PLdM-WZokR4tYpgGzGmtwYbVC-hLBjpVHv)
+
+**Theory Of Automata/Computation**
+
+ - [Theory of Computation or Automata Theory | Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
+ - [Automata Theory | Stanford Online Lagunita](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)

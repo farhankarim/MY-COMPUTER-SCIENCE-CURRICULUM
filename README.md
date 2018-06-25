@@ -12,7 +12,7 @@
   - [Semester 2](#semester-2)
   - [Semester 3](#semester-3)
   - [Semester 4](#semester-4)
-  - [Semester 5](#)
+  - [Semester 5](#semester-5)
   - [Semester 6](#)
   - [Semester 7](#)
   - [Semester 8](#)
@@ -29,7 +29,7 @@ Hello World,
 
 The Open Bachelors in Computer Science curriculum is a compilation of all the courses a standard computer science bachelor's program offers in Karachi. All the courses added in this repo are completely free of cost(till now). Some may require an outlook account to access the paid content/tools for free or for a limited time (2-4 months).This list also includes non-cs courses too i.e pakistan studies,communication skills,Islamic Studies etc.
 
-The main reason behind creating this repository is to provide an extra option for students who are not satisfied with their university's course content, course is not offered in their university or for students who are just looking for a different source to clarify their concepts.All the courses added below have high ratings from websites like class-central,reviews.com,mooc-list etc.These courses were compiled my me alone during my 4 year bachelors which has now come to an end ,due to which i have decided to upload all the free content that has helped me survive these 4 years; at github.There are no restrictions,you can take the entire courses or only the topics you require.Some of the courses given below may appear in different semesters but the content will mostly be the same.
+The main reason behind creating this repository is to provide an extra option for students who are not satisfied with their university's course content, course is not offered in their university or for students who are just looking for a different source to clarify their concepts.All the courses added below have high ratings from websites like class-central,reviews.com,mooc-list etc.There are no restrictions,you can take the entire courses or only the topics you require.Some of the courses given below may appear in different semesters but the content will mostly be the same.
 
 ### Curriculum
 
@@ -185,3 +185,28 @@ The BS Computer Science program provides understanding of the fundamental and ad
 
  - [English for Career Development | University of Pennsylvania](https://www.coursera.org/learn/careerdevelopment?siteID=.GqSdLGGurk-gLg_fgk4CwGvWV6FKURc5Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=*GqSdLGGurk)
  - [Business English: Making Presentations | University Of Washington](https://www.coursera.org/learn/business-english-presentations)
+ 
+### Semester 5
+ 
+ **Operating Systems**
+ 
+ - [Introduction to Operating Systems | Georgia Institute of Technology](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+ - [Operating Systems | David Black-Schaffer, KNOWLEDGE GATE, Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az)
+ 
+**Software Engineering**
+ - [Software Engineering: Introduction | University of British Columbia](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+ - [Software Engineering in Hindi | Easy Engineering Classes](https://www.youtube.com/watch?v=zi5HjXyIfrk&index=10&list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm&t=0s)
+ 
+**Compiler Construction**
+ - [Compiler Design | Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
+ - [Compiler Construction | VU](https://www.vutube.edu.pk/vu-lectures/viewcategory/99/compiler-construction-cs606)
+ 
+**Design and Analysis of Algorithms**
+
+ - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+ - [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PL4B8F5A3E03B84071)
+ 
+**Linear Algebra**
+
+ -[Linear Algebra | Khanacademy](https://www.khanacademy.org/math/linear-algebra)
+ -[Linear Algebra | TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_)

@@ -174,3 +174,14 @@ The BS Computer Science program provides understanding of the fundamental and ad
 
  - [Theory of Computation or Automata Theory | Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
  - [Automata Theory | Stanford Online Lagunita](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
+ 
+**Data Communication and Networking**
+
+ - [Introduction to Computer Networking | Stanford Online Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+ - [The Bits and Bytes of Computer Networking | Google](https://www.coursera.org/learn/computer-networking?siteID=SAyYsTvLiGQ-6mBYQBvjbLq1D1lvKPFOiw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+ - [Free Cisco Video Training 2018 | NetworKing](https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
+ 
+ **Technical Writing & Presentation Skills**
+
+ - [English for Career Development | University of Pennsylvania](https://www.coursera.org/learn/careerdevelopment?siteID=.GqSdLGGurk-gLg_fgk4CwGvWV6FKURc5Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=*GqSdLGGurk)
+ - [Business English: Making Presentations | University Of Washington](https://www.coursera.org/learn/business-english-presentations)

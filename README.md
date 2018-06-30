@@ -12,12 +12,11 @@
   - [Year 2](#year-2)
   - [Year 3](#year-3)
   - [Year 4](#year-4)
-  - [Electives](#)
-  - [Final Project](#)
-- [Forums](#)
-- [Extras](#)
-- [FYP](#)
-- [Websites](#)
+  - [Electives](#electives)
+  - [Final Project](#final-project)
+- [Forums](#forums)
+- [Extras](#extras)
+- [MOOC Websites](#MOOC-websites)
 
 ### Introduction
 
@@ -202,3 +201,55 @@ The BS Computer Science program provides understanding of the fundamental and ad
 
  - [Linear Algebra | Khanacademy](https://www.khanacademy.org/math/linear-algebra)
  - [Linear Algebra | TheTrevTutor Youtube](https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_)
+
+**Numerical Methods**
+
+ - [Numerical Methods in Hindi | Bhagwan Singh Vishwakarma](https://www.youtube.com/playlist?list=PLdM-WZokR4tainKO3QVSfvJS5dBb-jExJ)
+ - [Numerical Methods: Finite difference approach | NPTEL Youtube](https://www.youtube.com/channel/UCAIqrnbdzMNRximMPACXP_g/videos)
+ 
+ ### Year 4
+ 
+ **Artificial Intelligence**
+ 
+ - [Artificial Intelligence | MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+ - [Intro to Artificial Intelligence | MIT](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+ - [Artificial Intelligence (AI) | Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
+ 
+ **Human Computer Interaction**
+ 
+ - [Human-Centered Design: an Introduction | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+ 
+ **Distributed/Cloud Computing**
+ - [Cloud Computing Concepts, Part 1 | University of Illinois at Urbana-Champaign](https://www.coursera.org/learn/cloud-computing?siteID=SAyYsTvLiGQ-5IxbeDRbsK5pG2GKbwM0qw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+
+ **Cryptography**
+ 
+ - [Cryptography I](https://www.coursera.org/learn/crypto?siteID=SAyYsTvLiGQ-tiwNGMNlMy1MsCpLfN9wjw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+ - [Applied Cryptography | Udacity](https://www.udacity.com/course/applied-cryptography--cs387)
+ 
+### Electives
+
+```python
+pass
+```
+:sweat_smile:
+### Final Project
+
+```python
+pass
+```
+:sweat_smile:
+### Forums
+
+```python
+pass
+```
+:sweat_smile:
+
+### Extras
+
+ - [Need A similar list to learn something else??](https://awesome.paulrossethings.com/)
+ 
+### MOOC Websites
+
+ - [List of 41 providers offering MOOCs/free online courses](https://www.class-central.com/providers)

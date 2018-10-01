@@ -117,6 +117,8 @@ The BS Computer Science program provides understanding of the fundamental and ad
 - [Multivariable Calculus | KhanAcademy](https://www.khanacademy.org/math/multivariable-calculus)
 - [Multivariable Calculus | PatrickJMT Youtube](https://www.youtube.com/playlist?list=PLF83D74BA4DE75897)
 - [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
+- [Multivariable Calculus | Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning) 
+
 
 **Probability and Statistics**
 
@@ -214,6 +216,10 @@ The BS Computer Science program provides understanding of the fundamental and ad
  - [Artificial Intelligence | MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
  - [Intro to Artificial Intelligence | MIT](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
  - [Artificial Intelligence (AI) | Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
+ 
+ **Machine Learning**
+ 
+ - [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
  
  **Human Computer Interaction**
  

@@ -83,6 +83,10 @@ The BS Computer Science program provides understanding of the fundamental and ad
   
     - [Object Oriented Programming | UC San Diego](https://www.coursera.org/learn/object-oriented-java?siteID=SAyYsTvLiGQ-ZmE2wVgxLPh1hnNeM._Nzg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
   
+2. OO Design Patterns
+  
+    - [Design Patterns in Object Oriented Programming | Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+  
 **Basic Electronics**
 
 1. Basic Electronics | NPTEL
